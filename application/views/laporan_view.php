@@ -1,4 +1,3 @@
-<!-- application/views/rekrutmen_report.php -->
 
 <!DOCTYPE html>
 <html>
@@ -91,7 +90,6 @@
 
     <script>
         $(document).ready(function() {
-            // Inisialisasi DataTables
             $('#table-rekrutmen').DataTable();
         });
     </script>
